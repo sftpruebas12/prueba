@@ -1,3 +1,3 @@
 # prueba
 
-Esto es una prueba de concepto para MCP
+Esto es una prueba de concepto para MCP 2
